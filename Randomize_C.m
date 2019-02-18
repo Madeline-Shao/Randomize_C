@@ -1,3 +1,4 @@
+%@author: Madeline Shao
 %% Randomizing experiment with 2 conditions Experiment C
 try
     Screen('Preference','SkipSyncTests',1);
